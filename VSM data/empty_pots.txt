@@ -1,0 +1,4 @@
+Pot	Mass [mg]	Bc [mT]	Brh [mT]	Bih [mT]	Ms [Am^2]	Mrs [Am^2]	Xhf [m^3]	Shape
+Small pots with binder	5890	122.85	254.7	37.3	1.7375E-07	2.321E-08	-4.23E-11	-3.271
+Large square pot 6956.666667	33.66666667	499.6	3.833333333	2.86E-07	3.12E-08	-4.16E-11	-0.535666667
+Small pot	5320	87.8	233.4	2	3.04E-07	2.50E-08	-3.48E-11	-3.483
